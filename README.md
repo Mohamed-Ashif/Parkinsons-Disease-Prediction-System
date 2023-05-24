@@ -99,6 +99,7 @@ The project consists of the following files:
 
 ## Screenshot
 
+![Screenshot ](https://github.com/Mohamed-Ashif/parkinsons-disease-prediction/assets/78372127/f479e998-8253-41ed-b14b-3e31aecf63c5)
 
 
 ## Conclusion
