@@ -97,6 +97,10 @@ The project consists of the following files:
 10. The application will display the prediction results and any relevant visualizations.
 
 
+## Screenshot
+
+
+
 ## Conclusion
 
 This project demonstrates the application of machine learning techniques for predicting Parkinson's disease and deploys the model using Streamlit. The Streamlit application provides a user-friendly interface to interactively input data and obtain predictions for Parkinson's disease. The deployment allows for easy accessibility and utilization of the model by healthcare professionals and stakeholders.
