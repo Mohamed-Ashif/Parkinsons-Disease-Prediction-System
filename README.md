@@ -4,6 +4,9 @@
 This project aims to develop a machine learning model for predicting Parkinson's disease based on available data. Early detection and prediction of Parkinson's disease can assist in timely intervention and personalized treatment plans, improving patient outcomes.
 
 
+![IMAGE](https://github.com/Mohamed-Ashif/parkinsons-disease-prediction/assets/78372127/55d85afb-12aa-41e0-8e11-dc9385f6d063)
+
+
 ## Dataset
 
 This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recordings from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to the "status" column which is set to 0 for healthy and 1 for PD.
