@@ -4,7 +4,8 @@
 This project aims to develop a machine learning model for predicting Parkinson's disease based on available data. Early detection and prediction of Parkinson's disease can assist in timely intervention and personalized treatment plans, improving patient outcomes.
 
 
-![IMAGE](https://github.com/Mohamed-Ashif/parkinsons-disease-prediction/assets/78372127/55d85afb-12aa-41e0-8e11-dc9385f6d063)
+![parkinsons-disease-image](https://github.com/Mohamed-Ashif/parkinsons-disease-prediction/assets/78372127/11d255bf-b97e-410b-8250-e8740d38510f)
+
 
 
 ## Dataset
