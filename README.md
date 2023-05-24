@@ -4,21 +4,10 @@
 This project aims to develop a machine learning model for predicting Parkinson's disease based on available data. Early detection and prediction of Parkinson's disease can assist in timely intervention and personalized treatment plans, improving patient outcomes.
 
 
-
-
-
-
 ## Dataset
 
 This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recordings from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to the "status" column which is set to 0 for healthy and 1 for PD.
 
-## Dataset
-
-This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recordings from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to the "status" column which is set to 0 for healthy and 1 for PD.
-
-## Dataset
-
-This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recordings from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to the "status" column which is set to 0 for healthy and 1 for PD.
 
 ## Attributes Information
 
@@ -45,12 +34,6 @@ This dataset is composed of a range of biomedical voice measurements from 31 peo
 ■ spread1, spread2, PPE - Three nonlinear measures of fundamental frequency variation
 
 
-
-
-## Dataset
-
-This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds to one of 195 voice recordings from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to the "status" column which is set to 0 for healthy and 1 for PD.
-
 ## Requirements
 
 To run the Streamlit application and reproduce the results of this project, the following dependencies are required:
@@ -69,6 +52,7 @@ To run the Streamlit application and reproduce the results of this project, the 
 
 ◉ Streamlit-option-menu
 
+
 ## Project Structure
 
 The project consists of the following files:
@@ -84,6 +68,8 @@ The project consists of the following files:
 4. requirements.txt: This file lists the external dependencies and their versions for a Python project, facilitating easy installation of the required packages.
 
 6. README.md: Project documentation providing an overview of the project and instructions.
+
+
 ## Instructions
 
 1. Install the required dependencies mentioned in the "Requirements" section.
@@ -105,6 +91,8 @@ The project consists of the following files:
 9. Use the interactive interface to input the necessary data for predicting the likelihood of Parkinson's disease.
 
 10. The application will display the prediction results and any relevant visualizations.
+
+
 ## Conclusion
 
 This project demonstrates the application of machine learning techniques for predicting Parkinson's disease and deploys the model using Streamlit. The Streamlit application provides a user-friendly interface to interactively input data and obtain predictions for Parkinson's disease. The deployment allows for easy accessibility and utilization of the model by healthcare professionals and stakeholders.
