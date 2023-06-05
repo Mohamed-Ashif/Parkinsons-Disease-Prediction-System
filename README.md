@@ -1,5 +1,5 @@
 
-# Parkinson's Disease Prediction Using Machine Learning
+# Parkinson's Disease Prediction Using Machine Learning Streamlit Webapp
 
 This project aims to develop a machine learning model for predicting Parkinson's disease based on available data. Early detection and prediction of Parkinson's disease can assist in timely intervention and personalized treatment plans, improving patient outcomes.
 
